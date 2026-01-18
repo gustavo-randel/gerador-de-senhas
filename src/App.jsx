@@ -1,6 +1,5 @@
 import { useState } from "react"
 
-// import { useState } from 'react'
 function App() {
   const [password, setPassword] = useState('')
   const [copy, setCopy] = useState('Copiar')
