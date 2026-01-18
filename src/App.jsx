@@ -22,7 +22,7 @@ function App() {
     setCopy('Copiado!')
   }
 
-  return ( 
+  return (
     <div className="App">
     <h1>Gerador de Senhas</h1>
     <button onClick={generate}>Gerar!</button>
